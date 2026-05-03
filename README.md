@@ -2,7 +2,7 @@
 This project analyzes coffee shop sales data using Microsoft Excel and presents insights through an interactive dashboard.
 
 ## Dashboard Preview
-[Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools Used
 - Microsoft Excel
