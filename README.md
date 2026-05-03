@@ -22,14 +22,15 @@ This project analyzes coffee shop sales data using Microsoft Excel and presents 
   - Top Branch
 
 ## Key Insights
-- Revenue increased steadily from January to March
-- Retail Beans generated the highest sales
-- Bondi Junction is the top-performing branch
-- Online orders contributed the highest revenue
+- Revenue shows a consistent upward trend from January to March, indicating business growth.
+- Retail Beans is the highest-performing product category, contributing the largest share of total revenue.
+- Bondi Junction is the top-performing branch, significantly outperforming other locations.
+- Online orders generate the highest revenue, highlighting the importance of digital sales channels.
+- Cash and mobile payments are the most preferred payment methods among customers.
 
 ## Files Included
 - coffee-sales-excel-dashboard.xlsx
 - Dashboard screenshots
 
 ## Project Purpose
-This project demonstrates data analysis and dashboard creation skills using Excel, suitable for entry-level data analyst roles.
+This project was created to practice and demonstrate end-to-end data analysis skills, including data cleaning, transformation, and visualization using Microsoft Excel. It showcases the ability to extract business insights from raw sales data and present them through an interactive dashboard, aligned with real-world data analyst responsibilities.
